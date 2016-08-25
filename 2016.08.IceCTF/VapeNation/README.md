@@ -5,15 +5,17 @@
 ## Description
 Go Green! [vape_nation.png](https://play.icec.tf/problem-static/vape_nation_7d550b3069428e39775f31e7299cd354c721459043cf1a077bb388f4f531d459.png) 
 
+![image vape_nation](files/vape_nation_7d550b3069428e39775f31e7299cd354c721459043cf1a077bb388f4f531d459.png) 
+
 ## Solution
 
-Fail: pngcheck, 
+Fail: pngcheck, stegsolve, steganar, brightness/contrast, 
 
-Succes: https://github.com/Baldanos/Stegpy
+Succes: [Stegpy](https://github.com/Baldanos/Stegpy)
 ```bash
 sudo ./stegpy -V vape_nation_7d550b3069428e39775f31e7299cd354c721459043cf1a077bb388f4f531d459.png
 ```
-Choose Reversed color view
+Choose *Reversed color view*
 
 ![image vape.solution.png](files/vape.solution.png)
 
