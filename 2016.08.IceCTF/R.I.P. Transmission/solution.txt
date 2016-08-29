@@ -1,0 +1,2 @@
+foremost rip 
+fcrackzip -v -D -u -p cracklib-small 00002585.zip
